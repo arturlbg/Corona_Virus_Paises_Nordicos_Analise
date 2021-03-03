@@ -1,5 +1,5 @@
 # coronavirus-paises-nordicos
-<h1 align="center"> Análise de dados sobre a COVID-19 entre a Suécia e os outros países escandinavos, estudo feito em Outubro de 2020 </h1>
+<h1 align="center"> Análise de dados sobre a COVID-19 entre a Suécia e os outros países escandinavos, estudo feito em Agosto de 2020 </h1>
 <p align="justify"> A partir de dados fornecidos pelos países, realizar uma análise sobre o COVID-19 entre a Suécia, onde não foi adotado o isolamento social, com países que tem as mesmas características e que adotaram o isolamento. </p>
 
 <h1 align="center"> Resumo </h1>
